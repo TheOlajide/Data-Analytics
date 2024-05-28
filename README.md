@@ -13,9 +13,9 @@ Netflix userbase: The dataset used for this analysis is the Netflix userbase.csv
 
 ### Tools
 
--Excel – Data Cleaning
+- Excel – Data Cleaning
 
--PowerBi – Data Cleaning, Analysis and creating report
+- PowerBi – Data Cleaning, Analysis and creating report
 
 ### Data Cleaning and preparation
 
@@ -28,12 +28,17 @@ In the initial phase, the following tasks were performed:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the data to answer key questions as follows
-1.
-2.
-3.
-4.
-5.
+EDA involved exploring the data to answer key questions as follows:
+1. What are the highest number of subscribers/users by country?
+2. What are the monthly revenue generated per country?
+3. What country generates more and least revenue?
+4. What subscription type do most people prefer?
+5. What is the overall total numbes of subscribers?
+6. How much does netflix generate from all countries monthly?
+7. In how many countries does netflix have users?
+8. what month/year has the highest number of subscribers?
+9. Show the trend of subscription made overtime.
+10. what month/year has the highest number of subscriptions made?
 
 ### Data Analysis
 
@@ -45,15 +50,18 @@ Include some DAX expression
 ### Results/Findings
 
 The Analysis results are summarized as follows;
-1.
-2
-3.
-4.
-5.
+1. Spain and America have the highest number of users/subscribers.
+2. 
+3. America tops the list of most income generated while mexico is the country with the least revenue generated.
+4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
+5. There are 2,500 number of subscribers in total.
+6. 
+7.
+8.
 
 ### Recommendations
 Based on the analysis, the following recommendations are made:
 -
 -
 ### Limitations
-
+It is pertinent to note that this exploration was not carried out using netflix original dataset, hence it does not reflect the realistic performance of the company.
