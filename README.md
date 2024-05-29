@@ -51,7 +51,7 @@ Include some DAX expression
 
 The Analysis results are summarized as follows;
 1. Spain and America have the highest number of users/subscribers.
-2. 
+2. In Descending order of monthly revenue generated. America, Spain, Canada, United Kingdom, Italy, France, Brazil, Australia, Germany, Mexico.
 3. America tops the list of most income generated while mexico is the country with the least revenue generated.
 4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
 5. There are 2,500 number of subscribers/users in total.
