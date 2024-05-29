@@ -93,7 +93,7 @@ The Analysis results are summarized as follows;
 
 10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
-
+![how subcribers have joined netflix overtime2](https://github.com/TheOlajide/Data-Analytics/assets/155437593/cb6e67c2-a822-4006-8560-17349d70f9ed)
 
 
 ### Recommendations
