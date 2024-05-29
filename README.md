@@ -1,4 +1,6 @@
 # Neflix Data Analysis
+![Netflix visual](https://github.com/TheOlajide/Data-Analytics/assets/155437593/5e14ef59-36b1-424d-a0a2-8d0db367589c)
+
 
 ## Table of content
 - [Project Overview](#project-overview)
