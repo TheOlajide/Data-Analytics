@@ -33,11 +33,12 @@ Netflix userbase: The dataset used for this analysis is the Netflix userbase.csv
 ---
 
 In the initial phase, the following tasks were performed:
-1.Data loading in excel and inspection
-2.Data loading into PowerBi
-3.Transforming data in PowerBi
-4.Handling missing values, error values, white or trailing spaces, incorrect column data types.
-5.Data cleaning and formatting
+
+1. Data loading in excel and inspection
+2. Data loading into PowerBi
+3. Transforming data in PowerBi
+4. Handling missing values, error values, white or trailing spaces, incorrect column data types.
+5. Data cleaning and formatting
 
 ### Exploratory Data Analysis
 ---
