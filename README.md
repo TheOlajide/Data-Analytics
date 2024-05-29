@@ -70,7 +70,7 @@ The Analysis results are summarized as follows;
 
 3. America tops the list of most income generated while mexico is the country with the least revenue generated.
 
-
+![country and monthy revenue - 2](https://github.com/TheOlajide/Data-Analytics/assets/155437593/f31ab9cd-6b64-46a3-ba9b-dfe614a03530)
 
 
 4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
@@ -93,7 +93,7 @@ The Analysis results are summarized as follows;
 
 10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
-![how subcribers have joined netflix overtime](https://github.com/TheOlajide/Data-Analytics/assets/155437593/1d2ba2ea-23f1-44e4-b904-a4d5fb714efe)
+
 
 
 ### Recommendations
