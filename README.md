@@ -1,6 +1,14 @@
 # Neflix Data Analysis
 
 ## Table of content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 ---
@@ -40,14 +48,8 @@ EDA involved exploring the data to answer key questions as follows:
 9. Show the trend of subscription made overtime.
 10. what year has the highest number of subscribers/users joining netflix?
 
-### Data Analysis
 
-Include some DAX expression
-```DAX Query
-```
-
-
-### Results/Findings
+### Results and Findings
 
 The Analysis results are summarized as follows;
 1. Spain and America have the highest number of users/subscribers.
@@ -65,7 +67,7 @@ The Analysis results are summarized as follows;
 Based on the analysis, the following recommendations are made:
 - Netflix must always find a way to keep their business flourishing in the countries with high returns, so as not to lose customers.
 - Different strategies should be deployed to build dominance in the lower performing countries. For example, contents appealing to the culture and tradition of the countries should be introduced on Netflix platform, language support systems and overall improved user experience.
-- 
 
+ 
 ### Limitations
 It is pertinent to note that this exploration was not carried out using netflix original dataset, hence it does not reflect the realistic performance of the company.
