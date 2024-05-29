@@ -17,15 +17,18 @@ This Data Analysis project aims to provide insight into the number of subscriber
 Note: This is not an original reflection of Netflix performance, as this analysis was carried out on a demo dataset.
 
 ### Data Source
+---
 Netflix userbase: The dataset used for this analysis is the Netflix userbase.csv file downloaded from Kaggle containing information about subscribers from different countries that have joined Netflix across a three-year time duration. We seek to analyze revenue generated, performance by country and subscription type.
 
 ### Tools
+---
 
 - Excel – Data Cleaning
 
 - PowerBi – Data Cleaning, Analysis and creating report
 
 ### Data Cleaning and preparation
+---
 
 In the initial phase, the following tasks were performed:
 1.Data loading in excel and inspection
@@ -35,6 +38,7 @@ In the initial phase, the following tasks were performed:
 5.Data cleaning and formatting
 
 ### Exploratory Data Analysis
+---
 
 EDA involved exploring the data to answer key questions as follows:
 1. What are the highest number of subscribers/users by country?
@@ -50,6 +54,7 @@ EDA involved exploring the data to answer key questions as follows:
 
 
 ### Results and Findings
+---
 
 The Analysis results are summarized as follows;
 1. Spain and America have the highest number of users/subscribers.
@@ -64,10 +69,12 @@ The Analysis results are summarized as follows;
 10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
 ### Recommendations
+---
 Based on the analysis, the following recommendations are made:
 - Netflix must always find a way to keep their business flourishing in the countries with high returns, so as not to lose customers.
 - Different strategies should be deployed to build dominance in the lower performing countries. For example, contents appealing to the culture and tradition of the countries should be introduced on Netflix platform, language support systems and overall improved user experience.
 
  
 ### Limitations
+---
 It is pertinent to note that this exploration was not carried out using netflix original dataset, hence it does not reflect the realistic performance of the company.
