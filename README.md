@@ -70,7 +70,7 @@ The Analysis results are summarized as follows;
 
 3. America tops the list of most income generated while mexico is the country with the least revenue generated.
 
-![country and monthy revenue](https://github.com/TheOlajide/Data-Analytics/assets/155437593/427ec39c-662f-46c3-91bf-acfb8e0208ca)
+
 
 
 4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
