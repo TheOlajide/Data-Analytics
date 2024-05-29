@@ -1,4 +1,4 @@
-# Neflix Database Analysis
+# Neflix Userbase Data Analysis
 ![Netflix visual](https://github.com/TheOlajide/Data-Analytics/assets/155437593/5e14ef59-36b1-424d-a0a2-8d0db367589c)
 
 
