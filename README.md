@@ -80,8 +80,17 @@ The Analysis results are summarized as follows;
 
 5. There are 2,500 number of subscribers/users in total.
 
+![Number of subscribers](https://github.com/TheOlajide/Data-Analytics/assets/155437593/021fcf25-dd54-4a2a-950c-9d0cc22e5928)
+
 6. Netflix generates $31k from all countries monthly.
+
+![Total monthly revenue generated](https://github.com/TheOlajide/Data-Analytics/assets/155437593/be6152f7-7794-415e-9204-a84669067862)
+
 7. Netflix has users in ten countries.
+
+![number of countries](https://github.com/TheOlajide/Data-Analytics/assets/155437593/a22afee8-5939-41c4-86e8-4ebe3d683e73)
+
+
 8. 1st of July 2023 has the highest number of subscribers.
 
 ![Number of subscriptions made overtime](https://github.com/TheOlajide/Data-Analytics/assets/155437593/3c3077e5-32e4-4823-b006-7b6933ed5cde)
