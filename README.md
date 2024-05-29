@@ -60,13 +60,30 @@ EDA involved exploring the data to answer key questions as follows:
 
 The Analysis results are summarized as follows;
 1. Spain and America have the highest number of users/subscribers.
+
+![number of subcribers by country](https://github.com/TheOlajide/Data-Analytics/assets/155437593/56064c20-e90e-4545-a1ee-8a7ebd57b3a7)
+
 2. In Descending order of monthly revenue generated. America, Spain, Canada, United Kingdom, Italy, France, Brazil, Australia, Germany, Mexico.
+ 
+![country and monthy revenue](https://github.com/TheOlajide/Data-Analytics/assets/155437593/42b3719b-57ae-45a0-b3db-2239ac1cdc07)
+
+
 3. America tops the list of most income generated while mexico is the country with the least revenue generated.
+
+![country and monthy revenue](https://github.com/TheOlajide/Data-Analytics/assets/155437593/427ec39c-662f-46c3-91bf-acfb8e0208ca)
+
+
 4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
+
+![number of subscribers by subscription types](https://github.com/TheOlajide/Data-Analytics/assets/155437593/8ee5c160-a234-4b42-8505-d1696c9dd288)
+
+
 5. There are 2,500 number of subscribers/users in total.
+
 6. Netflix generates $31k from all countries monthly.
 7. Netflix has users in ten countries.
 8. 1st of July 2023 has the highest number of subscribers.
+
 9. Subscriptions were made on june and july 1st, 2023 with a massive increase in july twice the number in june.
 10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
