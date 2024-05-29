@@ -95,10 +95,9 @@ The Analysis results are summarized as follows;
 
 ![Number of subscriptions made overtime](https://github.com/TheOlajide/Data-Analytics/assets/155437593/3c3077e5-32e4-4823-b006-7b6933ed5cde)
 
-
 9. Subscriptions were made on june and july 1st, 2023 with a massive increase in july twice the number in june.
 
-![Number of subscriptions made overtime](https://github.com/TheOlajide/Data-Analytics/assets/155437593/76775dc8-e4e8-4bbb-b2d4-e24247cb0e79)
+![Number of subscriptions made overtime2](https://github.com/TheOlajide/Data-Analytics/assets/155437593/073afdf2-7ef2-4e2f-94a4-ed6937a68802)
 
 10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
