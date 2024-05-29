@@ -38,7 +38,7 @@ EDA involved exploring the data to answer key questions as follows:
 7. In how many countries does netflix have users?
 8. what month/year has the highest number of subscribers?
 9. Show the trend of subscription made overtime.
-10. what month/year has the highest number of subscriptions made?
+10. what year has the highest number of subscribers/users joining netflix?
 
 ### Data Analysis
 
@@ -54,10 +54,12 @@ The Analysis results are summarized as follows;
 2. 
 3. America tops the list of most income generated while mexico is the country with the least revenue generated.
 4. People prefer the Basic subscription type, with more people subscribing to it as compared to other types.
-5. There are 2,500 number of subscribers in total.
-6. 
-7.
-8.
+5. There are 2,500 number of subscribers/users in total.
+6. Netflix generates $31k from all countries monthly.
+7. Netflix has users in ten countries.
+8. 1st of July 2023 has the highest number of subscribers.
+9. Subscriptions were made on june and july 1st, 2023 with a massive increase in july twice the number in june.
+10. Year 2022 has the highest number of users/subscribers who joined Netflix.
 
 ### Recommendations
 Based on the analysis, the following recommendations are made:
